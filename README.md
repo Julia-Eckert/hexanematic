@@ -10,19 +10,19 @@ Date: 2023-6
 
 #######################
 
---- ShapeFunction.m 
+# ShapeFunction.m 
 
 This program computes the p-fold shape function, gamma_p ( for p = 2 ... 6) for each cell in two-dimensional monolayers, as shown in Eq.(2) of the above reference.
 
---- ShapeParameter.m 
+# ShapeParameter.m 
 
 coarse-grains the shape functions, gamma_g, over a given length scale and computes the shape parameter, Gamma_p, as show in Eq.(3) in the above reference.
 
---- plot_orientation_field_single_cell.m
+# plot_orientation_field_single_cell.m
 
 This program uses the shape functions, gamma_p, to plot the nematic (p=2) or hexatic (p=6) orientation fields of individual cells.
 
---- plot_coarse_grained_orientation_field.m
+# plot_coarse_grained_orientation_field.m
 
 This program uses the shape parameters, Gamma_p, to plot the coarse-grained nematic (p=2) or hexatic (p=6) orientation field for a given length scale. The orientation field is superimposed with topological defects. 
 
