@@ -8,6 +8,8 @@ Date: 2023-6
 
 ### Scripts:
 
+Each of the following scripts contains a detailed description at the beginning of the script.
+
 ```MATLAB
 ShapeFunction.m
 ```
