@@ -1,5 +1,8 @@
 ### Cite as:
-Armengol-Collado et al. 2023 (Nature Physics)
+Armengol-Collado et al., (2023) 'Epithelia are multiscale active liquid crystals', Nature Physics 
+
+Eckert et al., (2023) 'Hexanematic crossover in epithelial monolayers depends on cell adhesion and cell density'
+https://www.biorxiv.org/content/10.1101/2022.10.07.511294v2
 
 Author: Julia Eckert
 
