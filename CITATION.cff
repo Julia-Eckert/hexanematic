@@ -1,1 +1,11 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Eckert"
+  given-names: "Julia"
+  orcid: "https://orcid.org/0000-0003-1353-3642"
+title: "Hexanematic"
+version: 1
+doi: 10.1038/s41567-023-02179-0
+date-released: 2023-05-30
+url: "https://github.com/Julia-Eckert/hexanematic"
